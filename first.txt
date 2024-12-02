@@ -1,0 +1,1 @@
+created a new folder and create new text file called first.txt inside the folder
