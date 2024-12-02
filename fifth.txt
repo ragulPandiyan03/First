@@ -1,0 +1,2 @@
+Tracking Branch: When you set a tracking branch, Git automatically knows which remote branch to pull from or push to without needing to specify it every time.
+The command git branch --set-upstream-to=origin/main main links your local main branch to the origin/main branch on the remote.
